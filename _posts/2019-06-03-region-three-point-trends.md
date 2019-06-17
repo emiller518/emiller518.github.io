@@ -103,5 +103,9 @@ In instances where one team led the game in three point makes and the other shot
 | Holy Family  | 6       | 9    | 67% | 85    |
 | USciences    | 14      | 40   | 35% | 81    |
 
-Seeing this data 
+Overall, the data largely seems to be in line with conventional thinking about the modern game. 3-point statistics have been consistently on the rise for much of the last decade, and more made shots and efficient shots lead to more wins. I wanted to learn more about the impact of attempted 3's, as that's one of the few things within the control of a coach, but whether or not a team is better after taking more shots still remains to be seen. 
+
+For future consideration, I'd like to take a deeper look at 3-point attempts and provide more context to some of the above graphs. As mentioned earlier, it's possible that teams often take more 3's when trailing, causing them to take shots that are forced and inefficent.
+
+All data and code used in creating this article can be found on my Github account [here](https://github.com/emiller518/emiller518.github.io/tree/master/code/Region3PointAttempts).
 
