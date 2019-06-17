@@ -8,7 +8,7 @@ tags: [D2 East Hoops, Data Science, Python, Plotly]
 comments: true
 ---
 
-Over the last decade, the NBA has gone through a rather extreme makeover. Thanks to trancendent stars like Steph Curry and James Harden, coaches have begun to prioritize three point looks over paint touches. I couldn't help but wonder how, if at all, this new era of the professional game has impacted play at the D2 level.
+Over the last decade, the NBA has gone through a rather extreme makeover. Thanks to transcendent stars like Steph Curry and James Harden, coaches have begun to prioritize three point looks over paint touches. I couldn't help but wonder how, if at all, this new era of the professional game has impacted play at the D2 level.
 <!-- more -->
 
 First, I decided to plot each basic three point metric by season. The third metric represents 3-point field goal percentage, while the fourth is the percentage of all field goals taken from behind the arc. For example with a percentage of 50, the team has taken 50 3's for every 100 attempted field goals. This is stat will likely be similar to 3-point attempts, however it is helpful because it removes pace of play from consideration.
@@ -24,7 +24,7 @@ You can click the dropdown on the left to sort by conference, double click on a 
 
 A few interesting things of note:
 
-**Coaching Philosiphies**
+**Coaching Philosophies**
 
 In some instances, you can easily spot which seasons a new coach has been hired. David Duke (Adelphi), Patrick Beilein (Le Moyne), and Michael Harding (Assumption) led their respective teams to huge spikes in three point attempts during their first year campaigns in 2015-16. While David Duke continues to lead the three point revolution in the NE10, it will be interesting to see which direction rookie head coaches Nate Champion (Le Moyne) and Scott Faucher (Assumption) will take their programs into the 2019-20 season and beyond.
 
@@ -50,7 +50,7 @@ USciences (2014-15): 25-6 (NCAA #6 Seed)
 USciences (2015-16): 17-12  
 USciences (2017-18): 16-13  
 
-Next up, a look at the league wide trends for all three conferences in the region. I added statistics from the NBA to better understand how the regional trends match up with the professional game, and adjusted them to be on a per 40 mintue basis instead of 48 for a better comparison to the NCAA.
+Next up, a look at the league wide trends for all three conferences in the region. I added statistics from the NBA to better understand how the regional trends match up with the professional game, and adjusted them to be on a per 40 minute basis instead of 48 for a better comparison to the NCAA.
 
 <iframe src="https://plot.ly/~millere680/4/"
         height="600" width="100%"
@@ -72,7 +72,7 @@ Moving along from the year to year trends, my next question was simple - how hav
         frameBorder="0">
 </iframe>
 
-While there does seem to be a positive correlation between 3-point attempts and win percentage, it isn't much. Essentially, for an average team, every five additional 3's attempted per game has been worth an additional win over the the last 11 seasons. An interesting observation, but hardly compelling enough to convince coaches to start launching 50 3's per game. I decided plot NCAA tournament qualifying teams seperately, as seen in red. The average 3-point attempts taken for these teams was just slightly under 21 per game, incredibly close to the region wide average of 20.
+While there does seem to be a positive correlation between 3-point attempts and win percentage, it isn't much. Essentially, for an average team, every five additional 3's attempted per game has been worth an additional win over the last 11 seasons. An interesting observation, but hardly compelling enough to convince coaches to start launching 50 3's per game. I decided plot NCAA tournament qualifying teams separately, as seen in red. The average 3-point attempts taken for these teams was just slightly under 21 per game, incredibly close to the region wide average of 20.
 
 I wanted to take a closer look at these trends between teams that did and didn't qualify for the NCAA tournament each year, which resulted in the following graph.
 
@@ -105,7 +105,7 @@ In instances where one team led the game in three point makes and the other shot
 
 Overall, the data largely seems to be in line with conventional thinking about the modern game. 3-point statistics have been consistently on the rise for much of the last decade, and more made shots and efficient shots lead to more wins. I wanted to learn more about the impact of attempted 3's, as that's one of the few things within the control of a coach, but whether or not a team is better after taking more shots still remains to be seen. 
 
-For future consideration, I'd like to take a deeper look at 3-point attempts and provide more context to some of the above graphs. As mentioned earlier, it's possible that teams often take more 3's when trailing, causing them to take shots that are forced and inefficent.
+For future consideration, I'd like to take a deeper look at 3-point attempts and provide more context to some of the above graphs. As mentioned earlier, it's possible that teams often take more 3's when trailing, causing them to take shots that are forced and inefficient.
 
 All data and code used in creating this article can be found on my Github account [here](https://github.com/emiller518/emiller518.github.io/tree/master/code/Region3PointAttempts).
 
