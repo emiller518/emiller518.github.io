@@ -96,12 +96,12 @@ Over this time frame, teams have been hovering right around .500 when leading th
 
 Not as surprisingly, made threes and high shot percentages have clearly been important to a successful outcome. Teams making 3+ additional 3's have won 67.8% of their games, while teams shooting at least 10% better than their opponents from behind the arc have posted a 77.6% win percentage. 
 
-In instances where one team led the game in three point makes and the other shot a better percentage from long range, over the course of 1,021 games, the teams shooting a higher percentage have won 64.2% of the time. One great example of this came when Holy Family and USciences, two teams previously noted for their wildly contrasting styles, squared off in 2017. Despite an incredible barrage of 3's, Sciences edged out a victory on the road with consistent, higher percentage shooting.
+In instances where one team led the game in three point makes and the other shot a better percentage from long range, over the course of 1,021 games, the teams shooting a higher percentage have won 64.2% of the time. One great example of this came when Holy Family and USciences, two teams previously noted for their wildly contrasting styles, squared off in 2017 [(box score)](https://athletics.holyfamily.edu/boxscore.aspx?id=2364&path=mbball). Despite an incredible barrage of 3's, Sciences edged out a victory on the road with consistent, higher percentage shooting.
 
 | Team         | 3PM     | 3PA  | 3P% | Score |
 |:------------:|:-------:|:----:|:---:|:-----:|
-| Holy Family  | 6       | 9    | 67% | 85    |
-| USciences    | 14      | 40   | 35% | 81    |
+| USciences    | 6       | 9    | 67% | 85    |
+| Holy Family  | 14      | 40   | 35% | 81    |
 
 Overall, the data largely seems to be in line with conventional thinking about the modern game. 3-point statistics have been consistently on the rise for much of the last decade, and more made shots and efficient shots lead to more wins. I wanted to learn more about the impact of attempted 3's, as that's one of the few things within the control of a coach, but whether or not a team is better after taking more shots still remains to be seen. 
 
